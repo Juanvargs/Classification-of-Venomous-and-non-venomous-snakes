@@ -1,0 +1,2 @@
+﻿"scientific_name","reason","train_count","test_count","required_action"
+"Coluber constrictor","Excluida del piloto entrenable actual: train_count/test_count insuficientes en DATA_2.","missing","missing","Recolectar imagenes externas verificadas antes de entrenar esta especie."

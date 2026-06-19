@@ -1,0 +1,8 @@
+{
+  "manifest": "data\\external_tests\\random_external_compare_b4_b5_20260619\\manifest.csv",
+  "images": 20,
+  "venomous": 10,
+  "non_venomous": 10,
+  "fresh_images_from_internet_now": 5,
+  "sampled_reserved_holdout": 15
+}

@@ -1,0 +1,52 @@
+priority,model_target,true_species,query_species,true_class,min_images,issue,confused_with,region_focus,current_train,target_train,train_gap,external_holdout,notes
+1,species_b4_scale,Atractus crassicaudatus,Atractus crassicaudatus,Non Venomous,155,b4_general_scale_up,,,150,300,150,5,General B4 scale-up target. Add to train only after reserving external holdout.
+1,species_b4_scale,Cemophora coccinea,Cemophora coccinea,Non Venomous,155,b4_general_scale_up,,,150,300,150,5,General B4 scale-up target. Add to train only after reserving external holdout.
+1,species_b4_scale,Corallus hortulanus,Corallus hortulana,Non Venomous,156,b4_general_scale_up,,,149,300,151,5,General B4 scale-up target. Add to train only after reserving external holdout.
+1,species_b4_scale,Dendrelaphis pictus,Dendrelaphis pictus,Non Venomous,159,b4_general_scale_up,,,146,300,154,5,General B4 scale-up target. Add to train only after reserving external holdout.
+1,species_b4_scale,Eunectes murinus,Eunectes murinus,Non Venomous,188,b4_general_scale_up,,,117,300,183,5,General B4 scale-up target. Add to train only after reserving external holdout.
+1,species_b4_scale,Heterodon simus,Heterodon simus,Non Venomous,155,b4_general_scale_up,,,150,300,150,5,General B4 scale-up target. Add to train only after reserving external holdout.
+1,species_b4_scale,Leptodeira annulata,Leptodeira annulata,Non Venomous,156,b4_general_scale_up,,,149,300,151,5,General B4 scale-up target. Add to train only after reserving external holdout.
+1,species_b4_scale,Ninia sebae,Ninia sebae,Non Venomous,155,b4_general_scale_up,,,150,300,150,5,General B4 scale-up target. Add to train only after reserving external holdout.
+1,species_b4_scale,Psammodynastes pulverulentus,Psammodynastes pulverulentus,Non Venomous,155,b4_general_scale_up,,,150,300,150,5,General B4 scale-up target. Add to train only after reserving external holdout.
+1,species_b4_scale,Agkistrodon contortrix,Agkistrodon contortrix,Venomous,161,b4_general_scale_up,,,144,300,156,5,General B4 scale-up target. Add to train only after reserving external holdout.
+1,species_b4_scale,Bitis arietans,Bitis arietans,Venomous,159,b4_general_scale_up,,,146,300,154,5,General B4 scale-up target. Add to train only after reserving external holdout.
+1,species_b4_scale,Bitis gabonica,Bitis gabonica,Venomous,156,b4_general_scale_up,,,149,300,151,5,General B4 scale-up target. Add to train only after reserving external holdout.
+1,species_b4_scale,Bothrops atrox,Bothrops atrox,Venomous,158,b4_general_scale_up,,,147,300,153,5,General B4 scale-up target. Add to train only after reserving external holdout.
+1,species_b4_scale,Crotalus cerastes,Crotalus cerastes,Venomous,156,b4_general_scale_up,,,149,300,151,5,General B4 scale-up target. Add to train only after reserving external holdout.
+1,species_b4_scale,Crotalus lepidus,Crotalus lepidus,Venomous,155,b4_general_scale_up,,,150,300,150,5,General B4 scale-up target. Add to train only after reserving external holdout.
+1,species_b4_scale,Crotalus ornatus,Crotalus ornatus,Venomous,162,b4_general_scale_up,,,143,300,157,5,General B4 scale-up target. Add to train only after reserving external holdout.
+1,species_b4_scale,Crotalus ruber,Crotalus ruber,Venomous,164,b4_general_scale_up,,,141,300,159,5,General B4 scale-up target. Add to train only after reserving external holdout.
+1,species_b4_scale,Crotalus scutulatus,Crotalus scutulatus,Venomous,158,b4_general_scale_up,,,147,300,153,5,General B4 scale-up target. Add to train only after reserving external holdout.
+1,species_b4_scale,Laticauda colubrina,Laticauda colubrina,Venomous,156,b4_general_scale_up,,,149,300,151,5,General B4 scale-up target. Add to train only after reserving external holdout.
+1,species_b4_scale,Naja atra,Naja atra,Venomous,161,b4_general_scale_up,,,144,300,156,5,General B4 scale-up target. Add to train only after reserving external holdout.
+1,species_b4_scale,Ophiophagus hannah,Ophiophagus hannah,Venomous,162,b4_general_scale_up,,,143,300,157,5,General B4 scale-up target. Add to train only after reserving external holdout.
+1,species_b4_scale,Protobothrops mucrosquamatus,Protobothrops mucrosquamatus,Venomous,157,b4_general_scale_up,,,148,300,152,5,General B4 scale-up target. Add to train only after reserving external holdout.
+1,species_b4_scale,Sistrurus miliarius,Sistrurus miliarius,Venomous,162,b4_general_scale_up,,,143,300,157,5,General B4 scale-up target. Add to train only after reserving external holdout.
+2,species_b4_scale,Ahaetulla nasuta,Ahaetulla nasuta,Non Venomous,146,b4_general_scale_up,,,159,300,141,5,General B4 scale-up target. Add to train only after reserving external holdout.
+2,species_b4_scale,Ahaetulla prasina,Ahaetulla prasina,Non Venomous,145,b4_general_scale_up,,,160,300,140,5,General B4 scale-up target. Add to train only after reserving external holdout.
+2,species_b4_scale,Bogertophis subocularis,Bogertophis subocularis,Non Venomous,147,b4_general_scale_up,,,158,300,142,5,General B4 scale-up target. Add to train only after reserving external holdout.
+2,species_b4_scale,Boiga kraepelini,Boiga kraepelini,Non Venomous,144,b4_general_scale_up,,,161,300,139,5,General B4 scale-up target. Add to train only after reserving external holdout.
+2,species_b4_scale,Carphophis vermis,Carphophis vermis,Non Venomous,147,b4_general_scale_up,,,158,300,142,5,General B4 scale-up target. Add to train only after reserving external holdout.
+2,species_b4_scale,Charina bottae,Charina bottae,Non Venomous,153,b4_general_scale_up,,,152,300,148,5,General B4 scale-up target. Add to train only after reserving external holdout.
+2,species_b4_scale,Contia tenuis,Contia tenuis,Non Venomous,151,b4_general_scale_up,,,154,300,146,5,General B4 scale-up target. Add to train only after reserving external holdout.
+2,species_b4_scale,Corallus caninus,Corallus caninus,Non Venomous,153,b4_general_scale_up,,,152,300,148,5,General B4 scale-up target. Add to train only after reserving external holdout.
+2,species_b4_scale,Imantodes cenchoa,Imantodes cenchoa,Non Venomous,145,b4_general_scale_up,,,160,300,140,5,General B4 scale-up target. Add to train only after reserving external holdout.
+2,species_b4_scale,Lampropeltis alterna,Lampropeltis alterna,Non Venomous,153,b4_general_scale_up,,,152,300,148,5,General B4 scale-up target. Add to train only after reserving external holdout.
+2,species_b4_scale,Lampropeltis pyromelana,Lampropeltis pyromelana,Non Venomous,153,b4_general_scale_up,,,152,300,148,5,General B4 scale-up target. Add to train only after reserving external holdout.
+2,species_b4_scale,Lampropeltis triangulum,Lampropeltis triangulum,Non Venomous,153,b4_general_scale_up,,,152,300,148,5,General B4 scale-up target. Add to train only after reserving external holdout.
+2,species_b4_scale,Lampropeltis zonata,Lampropeltis zonata,Non Venomous,154,b4_general_scale_up,,,151,300,149,5,General B4 scale-up target. Add to train only after reserving external holdout.
+2,species_b4_scale,Morelia spilota,Morelia spilota,Non Venomous,151,b4_general_scale_up,,,154,300,146,5,General B4 scale-up target. Add to train only after reserving external holdout.
+2,species_b4_scale,Natrix maura,Natrix maura,Non Venomous,151,b4_general_scale_up,,,154,300,146,5,General B4 scale-up target. Add to train only after reserving external holdout.
+2,species_b4_scale,Tantilla coronata,Tantilla coronata,Non Venomous,147,b4_general_scale_up,,,158,300,142,5,General B4 scale-up target. Add to train only after reserving external holdout.
+2,species_b4_scale,Tantilla gracilis,Tantilla gracilis,Non Venomous,151,b4_general_scale_up,,,154,300,146,5,General B4 scale-up target. Add to train only after reserving external holdout.
+2,species_b4_scale,Agkistrodon piscivorus,Agkistrodon piscivorus,Venomous,145,b4_general_scale_up,,,160,300,140,5,General B4 scale-up target. Add to train only after reserving external holdout.
+2,species_b4_scale,Austrelaps superbus,Austrelaps superbus,Venomous,144,b4_general_scale_up,,,161,300,139,5,General B4 scale-up target. Add to train only after reserving external holdout.
+2,species_b4_scale,Boiga irregularis,Boiga irregularis,Venomous,148,b4_general_scale_up,,,157,300,143,5,General B4 scale-up target. Add to train only after reserving external holdout.
+2,species_b4_scale,Bothriechis schlegelii,Bothriechis schlegelii,Venomous,139,b4_general_scale_up,,,166,300,134,5,General B4 scale-up target. Add to train only after reserving external holdout.
+2,species_b4_scale,Bothrops asper,Bothrops asper,Venomous,143,b4_general_scale_up,,,162,300,138,5,General B4 scale-up target. Add to train only after reserving external holdout.
+2,species_b4_scale,Causus rhombeatus,Causus rhombeatus,Venomous,151,b4_general_scale_up,,,154,300,146,5,General B4 scale-up target. Add to train only after reserving external holdout.
+2,species_b4_scale,Crotalus stephensi,Crotalus stephensi,Venomous,154,b4_general_scale_up,,,151,300,149,5,General B4 scale-up target. Add to train only after reserving external holdout.
+2,species_b4_scale,Crotalus tigris,Crotalus tigris,Venomous,147,b4_general_scale_up,,,158,300,142,5,General B4 scale-up target. Add to train only after reserving external holdout.
+2,species_b4_scale,Crotalus triseriatus,Crotalus triseriatus,Venomous,154,b4_general_scale_up,,,151,300,149,5,General B4 scale-up target. Add to train only after reserving external holdout.
+2,species_b4_scale,Pseudechis australis,Pseudechis australis,Venomous,153,b4_general_scale_up,,,152,300,148,5,General B4 scale-up target. Add to train only after reserving external holdout.
+2,species_b4_scale,Tropidolaemus wagleri,Tropidolaemus wagleri,Venomous,152,b4_general_scale_up,,,153,300,147,5,General B4 scale-up target. Add to train only after reserving external holdout.

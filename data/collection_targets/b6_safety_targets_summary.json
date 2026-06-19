@@ -1,0 +1,157 @@
+{
+  "source_results": "data\\external_tests\\b4_scale_holdout\\reports\\current_app_flow_b5\\current_app_flow_results.csv",
+  "metadata": "data\\metadata\\species_pilot51_b4_scale_metadata.csv",
+  "output_targets": "data\\collection_targets\\b6_safety_targets.csv",
+  "model_target": "species_b6_safety",
+  "selection_rule": "Venomous true class predicted visually as Non Venomous by B5 in sin_region.",
+  "visual_false_non_venomous_cases": 21,
+  "target_species": 14,
+  "total_requested_images": 1680,
+  "priority_counts": {
+    "1": 2,
+    "2": 6,
+    "3": 6
+  },
+  "targets": [
+    {
+      "scientific_name": "Crotalus tigris",
+      "priority": 1,
+      "current_train": 237,
+      "requested_images": 180,
+      "visual_false_non_venomous_count": 1,
+      "dangerous_false_safe_count": 1,
+      "high_confidence_miss_count": 1,
+      "confused_with": "Heterodon simus"
+    },
+    {
+      "scientific_name": "Ophiophagus hannah",
+      "priority": 1,
+      "current_train": 206,
+      "requested_images": 180,
+      "visual_false_non_venomous_count": 2,
+      "dangerous_false_safe_count": 2,
+      "high_confidence_miss_count": 1,
+      "confused_with": "Eunectes murinus | Leptodeira annulata"
+    },
+    {
+      "scientific_name": "Agkistrodon contortrix",
+      "priority": 2,
+      "current_train": 300,
+      "requested_images": 130,
+      "visual_false_non_venomous_count": 2,
+      "dangerous_false_safe_count": 0,
+      "high_confidence_miss_count": 1,
+      "confused_with": "Cemophora coccinea | Morelia spilota"
+    },
+    {
+      "scientific_name": "Bothriechis schlegelii",
+      "priority": 2,
+      "current_train": 216,
+      "requested_images": 130,
+      "visual_false_non_venomous_count": 2,
+      "dangerous_false_safe_count": 0,
+      "high_confidence_miss_count": 1,
+      "confused_with": "Eunectes murinus | Natrix maura"
+    },
+    {
+      "scientific_name": "Bothrops asper",
+      "priority": 2,
+      "current_train": 300,
+      "requested_images": 130,
+      "visual_false_non_venomous_count": 2,
+      "dangerous_false_safe_count": 0,
+      "high_confidence_miss_count": 0,
+      "confused_with": "Eunectes murinus | Boiga kraepelini"
+    },
+    {
+      "scientific_name": "Laticauda colubrina",
+      "priority": 2,
+      "current_train": 293,
+      "requested_images": 130,
+      "visual_false_non_venomous_count": 1,
+      "dangerous_false_safe_count": 0,
+      "high_confidence_miss_count": 1,
+      "confused_with": "Heterodon simus"
+    },
+    {
+      "scientific_name": "Naja atra",
+      "priority": 2,
+      "current_train": 260,
+      "requested_images": 130,
+      "visual_false_non_venomous_count": 2,
+      "dangerous_false_safe_count": 0,
+      "high_confidence_miss_count": 1,
+      "confused_with": "Charina bottae | Natrix maura"
+    },
+    {
+      "scientific_name": "Protobothrops mucrosquamatus",
+      "priority": 2,
+      "current_train": 300,
+      "requested_images": 130,
+      "visual_false_non_venomous_count": 3,
+      "dangerous_false_safe_count": 0,
+      "high_confidence_miss_count": 0,
+      "confused_with": "Imantodes cenchoa | Natrix maura | Bogertophis subocularis"
+    },
+    {
+      "scientific_name": "Agkistrodon piscivorus",
+      "priority": 3,
+      "current_train": 300,
+      "requested_images": 90,
+      "visual_false_non_venomous_count": 1,
+      "dangerous_false_safe_count": 0,
+      "high_confidence_miss_count": 0,
+      "confused_with": "Charina bottae"
+    },
+    {
+      "scientific_name": "Austrelaps superbus",
+      "priority": 3,
+      "current_train": 300,
+      "requested_images": 90,
+      "visual_false_non_venomous_count": 1,
+      "dangerous_false_safe_count": 0,
+      "high_confidence_miss_count": 0,
+      "confused_with": "Charina bottae"
+    },
+    {
+      "scientific_name": "Bitis gabonica",
+      "priority": 3,
+      "current_train": 191,
+      "requested_images": 90,
+      "visual_false_non_venomous_count": 1,
+      "dangerous_false_safe_count": 0,
+      "high_confidence_miss_count": 0,
+      "confused_with": "Bogertophis subocularis"
+    },
+    {
+      "scientific_name": "Bothrops atrox",
+      "priority": 3,
+      "current_train": 300,
+      "requested_images": 90,
+      "visual_false_non_venomous_count": 1,
+      "dangerous_false_safe_count": 0,
+      "high_confidence_miss_count": 0,
+      "confused_with": "Eunectes murinus"
+    },
+    {
+      "scientific_name": "Crotalus lepidus",
+      "priority": 3,
+      "current_train": 205,
+      "requested_images": 90,
+      "visual_false_non_venomous_count": 1,
+      "dangerous_false_safe_count": 0,
+      "high_confidence_miss_count": 0,
+      "confused_with": "Leptodeira annulata"
+    },
+    {
+      "scientific_name": "Crotalus ornatus",
+      "priority": 3,
+      "current_train": 251,
+      "requested_images": 90,
+      "visual_false_non_venomous_count": 1,
+      "dangerous_false_safe_count": 0,
+      "high_confidence_miss_count": 0,
+      "confused_with": "Lampropeltis triangulum"
+    }
+  ]
+}

@@ -1,0 +1,321 @@
+{
+  "018_Agkistrodon_contortrix": {
+    "precision": 0.5769230769230769,
+    "recall": 0.5555555555555556,
+    "f1-score": 0.5660377358490566,
+    "support": 27.0
+  },
+  "020_Agkistrodon_piscivorus": {
+    "precision": 0.24,
+    "recall": 0.4,
+    "f1-score": 0.3,
+    "support": 15.0
+  },
+  "025_Ahaetulla_nasuta": {
+    "precision": 0.5555555555555556,
+    "recall": 0.5172413793103449,
+    "f1-score": 0.5357142857142857,
+    "support": 29.0
+  },
+  "026_Ahaetulla_prasina": {
+    "precision": 0.45161290322580644,
+    "recall": 0.56,
+    "f1-score": 0.5,
+    "support": 25.0
+  },
+  "048_Atractus_crassicaudatus": {
+    "precision": 0.6388888888888888,
+    "recall": 0.8518518518518519,
+    "f1-score": 0.7301587301587301,
+    "support": 27.0
+  },
+  "052_Austrelaps_superbus": {
+    "precision": 0.6086956521739131,
+    "recall": 0.6363636363636364,
+    "f1-score": 0.6222222222222222,
+    "support": 22.0
+  },
+  "054_Bitis_arietans": {
+    "precision": 0.7368421052631579,
+    "recall": 0.56,
+    "f1-score": 0.6363636363636364,
+    "support": 25.0
+  },
+  "057_Bitis_gabonica": {
+    "precision": 0.8461538461538461,
+    "recall": 0.8461538461538461,
+    "f1-score": 0.8461538461538461,
+    "support": 26.0
+  },
+  "065_Bogertophis_subocularis": {
+    "precision": 0.7428571428571429,
+    "recall": 1.0,
+    "f1-score": 0.8524590163934426,
+    "support": 26.0
+  },
+  "071_Boiga_irregularis": {
+    "precision": 0.48148148148148145,
+    "recall": 0.5416666666666666,
+    "f1-score": 0.5098039215686274,
+    "support": 24.0
+  },
+  "073_Boiga_kraepelini": {
+    "precision": 0.37037037037037035,
+    "recall": 0.45454545454545453,
+    "f1-score": 0.40816326530612246,
+    "support": 22.0
+  },
+  "083_Bothriechis_schlegelii": {
+    "precision": 0.6296296296296297,
+    "recall": 0.7083333333333334,
+    "f1-score": 0.6666666666666666,
+    "support": 24.0
+  },
+  "087_Bothrops_asper": {
+    "precision": 0.3448275862068966,
+    "recall": 0.43478260869565216,
+    "f1-score": 0.38461538461538464,
+    "support": 23.0
+  },
+  "088_Bothrops_atrox": {
+    "precision": 0.6666666666666666,
+    "recall": 0.4,
+    "f1-score": 0.5,
+    "support": 30.0
+  },
+  "111_Carphophis_vermis": {
+    "precision": 0.8695652173913043,
+    "recall": 0.7692307692307693,
+    "f1-score": 0.8163265306122449,
+    "support": 26.0
+  },
+  "113_Causus_rhombeatus": {
+    "precision": 0.5384615384615384,
+    "recall": 0.56,
+    "f1-score": 0.5490196078431373,
+    "support": 25.0
+  },
+  "114_Cemophora_coccinea": {
+    "precision": 0.875,
+    "recall": 0.8076923076923077,
+    "f1-score": 0.84,
+    "support": 26.0
+  },
+  "122_Charina_bottae": {
+    "precision": 0.782608695652174,
+    "recall": 0.8181818181818182,
+    "f1-score": 0.8,
+    "support": 22.0
+  },
+  "155_Contia_tenuis": {
+    "precision": 0.4,
+    "recall": 0.36363636363636365,
+    "f1-score": 0.38095238095238093,
+    "support": 22.0
+  },
+  "158_Corallus_caninus": {
+    "precision": 0.9642857142857143,
+    "recall": 0.8709677419354839,
+    "f1-score": 0.9152542372881356,
+    "support": 31.0
+  },
+  "159_Corallus_hortulanus": {
+    "precision": 0.6153846153846154,
+    "recall": 0.5925925925925926,
+    "f1-score": 0.6037735849056604,
+    "support": 27.0
+  },
+  "168_Crotalus_cerastes": {
+    "precision": 0.631578947368421,
+    "recall": 0.6666666666666666,
+    "f1-score": 0.6486486486486487,
+    "support": 18.0
+  },
+  "175_Crotalus_lepidus": {
+    "precision": 0.4838709677419355,
+    "recall": 0.5769230769230769,
+    "f1-score": 0.5263157894736842,
+    "support": 26.0
+  },
+  "180_Crotalus_ornatus": {
+    "precision": 0.59375,
+    "recall": 0.6785714285714286,
+    "f1-score": 0.6333333333333333,
+    "support": 28.0
+  },
+  "185_Crotalus_ruber": {
+    "precision": 0.6538461538461539,
+    "recall": 0.5862068965517241,
+    "f1-score": 0.6181818181818182,
+    "support": 29.0
+  },
+  "186_Crotalus_scutulatus": {
+    "precision": 0.5,
+    "recall": 0.5,
+    "f1-score": 0.5,
+    "support": 24.0
+  },
+  "188_Crotalus_stephensi": {
+    "precision": 0.5454545454545454,
+    "recall": 0.5714285714285714,
+    "f1-score": 0.5581395348837209,
+    "support": 21.0
+  },
+  "189_Crotalus_tigris": {
+    "precision": 0.7894736842105263,
+    "recall": 0.5769230769230769,
+    "f1-score": 0.6666666666666666,
+    "support": 26.0
+  },
+  "191_Crotalus_triseriatus": {
+    "precision": 0.5925925925925926,
+    "recall": 0.7272727272727273,
+    "f1-score": 0.6530612244897959,
+    "support": 22.0
+  },
+  "215_Dendrelaphis_pictus": {
+    "precision": 0.6428571428571429,
+    "recall": 0.6428571428571429,
+    "f1-score": 0.6428571428571429,
+    "support": 28.0
+  },
+  "280_Eunectes_murinus": {
+    "precision": 0.8125,
+    "recall": 0.65,
+    "f1-score": 0.7222222222222222,
+    "support": 20.0
+  },
+  "321_Heterodon_simus": {
+    "precision": 0.8076923076923077,
+    "recall": 0.84,
+    "f1-score": 0.8235294117647058,
+    "support": 25.0
+  },
+  "338_Imantodes_cenchoa": {
+    "precision": 0.68,
+    "recall": 0.68,
+    "f1-score": 0.68,
+    "support": 25.0
+  },
+  "345_Lampropeltis_alterna": {
+    "precision": 0.7,
+    "recall": 0.5833333333333334,
+    "f1-score": 0.6363636363636364,
+    "support": 24.0
+  },
+  "360_Lampropeltis_pyromelana": {
+    "precision": 0.6956521739130435,
+    "recall": 0.64,
+    "f1-score": 0.6666666666666666,
+    "support": 25.0
+  },
+  "363_Lampropeltis_triangulum": {
+    "precision": 0.5217391304347826,
+    "recall": 0.5714285714285714,
+    "f1-score": 0.5454545454545454,
+    "support": 21.0
+  },
+  "364_Lampropeltis_zonata": {
+    "precision": 0.6923076923076923,
+    "recall": 0.72,
+    "f1-score": 0.7058823529411765,
+    "support": 25.0
+  },
+  "368_Laticauda_colubrina": {
+    "precision": 0.9090909090909091,
+    "recall": 0.8695652173913043,
+    "f1-score": 0.8888888888888888,
+    "support": 23.0
+  },
+  "373_Leptodeira_annulata": {
+    "precision": 0.5769230769230769,
+    "recall": 0.6,
+    "f1-score": 0.5882352941176471,
+    "support": 25.0
+  },
+  "453_Morelia_spilota": {
+    "precision": 0.5833333333333334,
+    "recall": 0.3333333333333333,
+    "f1-score": 0.42424242424242425,
+    "support": 21.0
+  },
+  "457_Naja_atra": {
+    "precision": 0.5,
+    "recall": 0.38461538461538464,
+    "f1-score": 0.43478260869565216,
+    "support": 26.0
+  },
+  "470_Natrix_maura": {
+    "precision": 0.7222222222222222,
+    "recall": 0.65,
+    "f1-score": 0.6842105263157895,
+    "support": 20.0
+  },
+  "485_Ninia_sebae": {
+    "precision": 0.7777777777777778,
+    "recall": 0.56,
+    "f1-score": 0.6511627906976745,
+    "support": 25.0
+  },
+  "497_Ophiophagus_hannah": {
+    "precision": 0.6666666666666666,
+    "recall": 0.5185185185185185,
+    "f1-score": 0.5833333333333334,
+    "support": 27.0
+  },
+  "560_Protobothrops_mucrosquamatus": {
+    "precision": 0.631578947368421,
+    "recall": 0.48,
+    "f1-score": 0.5454545454545454,
+    "support": 25.0
+  },
+  "562_Psammodynastes_pulverulentus": {
+    "precision": 0.5517241379310345,
+    "recall": 0.64,
+    "f1-score": 0.5925925925925926,
+    "support": 25.0
+  },
+  "576_Pseudechis_australis": {
+    "precision": 0.782608695652174,
+    "recall": 0.9,
+    "f1-score": 0.8372093023255814,
+    "support": 20.0
+  },
+  "652_Sistrurus_miliarius": {
+    "precision": 0.9583333333333334,
+    "recall": 0.8214285714285714,
+    "f1-score": 0.8846153846153846,
+    "support": 28.0
+  },
+  "672_Tantilla_coronata": {
+    "precision": 0.5925925925925926,
+    "recall": 0.6153846153846154,
+    "f1-score": 0.6037735849056604,
+    "support": 26.0
+  },
+  "674_Tantilla_gracilis": {
+    "precision": 0.5,
+    "recall": 0.6956521739130435,
+    "f1-score": 0.5818181818181818,
+    "support": 23.0
+  },
+  "741_Tropidolaemus_wagleri": {
+    "precision": 0.8571428571428571,
+    "recall": 0.8888888888888888,
+    "f1-score": 0.8727272727272727,
+    "support": 27.0
+  },
+  "accuracy": 0.6389776357827476,
+  "macro avg": {
+    "precision": 0.6448847171573593,
+    "recall": 0.6356430219838364,
+    "f1-score": 0.6345893093586661,
+    "support": 1252.0
+  },
+  "weighted avg": {
+    "precision": 0.6518270372443316,
+    "recall": 0.6389776357827476,
+    "f1-score": 0.6397784848111363,
+    "support": 1252.0
+  }
+}

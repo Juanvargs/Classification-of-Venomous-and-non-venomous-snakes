@@ -1,0 +1,481 @@
+{
+  "base_summary": "data\\metadata\\species_pilot51_targeted_summary.json",
+  "base_metadata": "data\\metadata\\species_pilot51_targeted_metadata.csv",
+  "output_targets": "data\\collection_targets\\b4_scale_up_targets.csv",
+  "target_train_per_species": 300,
+  "external_holdout_per_species": 5,
+  "min_download_per_species": 25,
+  "species": 51,
+  "total_requested_downloads": 7835,
+  "total_train_gap": 7580,
+  "priority_counts": {
+    "1": 23,
+    "2": 28,
+    "3": 0
+  },
+  "venom_status_counts": {
+    "Venomous": 25,
+    "Non Venomous": 26
+  },
+  "targets": [
+    {
+      "scientific_name": "Atractus crassicaudatus",
+      "query_species": "Atractus crassicaudatus",
+      "venom_status": "Non Venomous",
+      "current_train": 150,
+      "train_gap": 150,
+      "requested_downloads": 155,
+      "priority": 1
+    },
+    {
+      "scientific_name": "Cemophora coccinea",
+      "query_species": "Cemophora coccinea",
+      "venom_status": "Non Venomous",
+      "current_train": 150,
+      "train_gap": 150,
+      "requested_downloads": 155,
+      "priority": 1
+    },
+    {
+      "scientific_name": "Corallus hortulanus",
+      "query_species": "Corallus hortulana",
+      "venom_status": "Non Venomous",
+      "current_train": 149,
+      "train_gap": 151,
+      "requested_downloads": 156,
+      "priority": 1
+    },
+    {
+      "scientific_name": "Dendrelaphis pictus",
+      "query_species": "Dendrelaphis pictus",
+      "venom_status": "Non Venomous",
+      "current_train": 146,
+      "train_gap": 154,
+      "requested_downloads": 159,
+      "priority": 1
+    },
+    {
+      "scientific_name": "Eunectes murinus",
+      "query_species": "Eunectes murinus",
+      "venom_status": "Non Venomous",
+      "current_train": 117,
+      "train_gap": 183,
+      "requested_downloads": 188,
+      "priority": 1
+    },
+    {
+      "scientific_name": "Heterodon simus",
+      "query_species": "Heterodon simus",
+      "venom_status": "Non Venomous",
+      "current_train": 150,
+      "train_gap": 150,
+      "requested_downloads": 155,
+      "priority": 1
+    },
+    {
+      "scientific_name": "Leptodeira annulata",
+      "query_species": "Leptodeira annulata",
+      "venom_status": "Non Venomous",
+      "current_train": 149,
+      "train_gap": 151,
+      "requested_downloads": 156,
+      "priority": 1
+    },
+    {
+      "scientific_name": "Ninia sebae",
+      "query_species": "Ninia sebae",
+      "venom_status": "Non Venomous",
+      "current_train": 150,
+      "train_gap": 150,
+      "requested_downloads": 155,
+      "priority": 1
+    },
+    {
+      "scientific_name": "Psammodynastes pulverulentus",
+      "query_species": "Psammodynastes pulverulentus",
+      "venom_status": "Non Venomous",
+      "current_train": 150,
+      "train_gap": 150,
+      "requested_downloads": 155,
+      "priority": 1
+    },
+    {
+      "scientific_name": "Agkistrodon contortrix",
+      "query_species": "Agkistrodon contortrix",
+      "venom_status": "Venomous",
+      "current_train": 144,
+      "train_gap": 156,
+      "requested_downloads": 161,
+      "priority": 1
+    },
+    {
+      "scientific_name": "Bitis arietans",
+      "query_species": "Bitis arietans",
+      "venom_status": "Venomous",
+      "current_train": 146,
+      "train_gap": 154,
+      "requested_downloads": 159,
+      "priority": 1
+    },
+    {
+      "scientific_name": "Bitis gabonica",
+      "query_species": "Bitis gabonica",
+      "venom_status": "Venomous",
+      "current_train": 149,
+      "train_gap": 151,
+      "requested_downloads": 156,
+      "priority": 1
+    },
+    {
+      "scientific_name": "Bothrops atrox",
+      "query_species": "Bothrops atrox",
+      "venom_status": "Venomous",
+      "current_train": 147,
+      "train_gap": 153,
+      "requested_downloads": 158,
+      "priority": 1
+    },
+    {
+      "scientific_name": "Crotalus cerastes",
+      "query_species": "Crotalus cerastes",
+      "venom_status": "Venomous",
+      "current_train": 149,
+      "train_gap": 151,
+      "requested_downloads": 156,
+      "priority": 1
+    },
+    {
+      "scientific_name": "Crotalus lepidus",
+      "query_species": "Crotalus lepidus",
+      "venom_status": "Venomous",
+      "current_train": 150,
+      "train_gap": 150,
+      "requested_downloads": 155,
+      "priority": 1
+    },
+    {
+      "scientific_name": "Crotalus ornatus",
+      "query_species": "Crotalus ornatus",
+      "venom_status": "Venomous",
+      "current_train": 143,
+      "train_gap": 157,
+      "requested_downloads": 162,
+      "priority": 1
+    },
+    {
+      "scientific_name": "Crotalus ruber",
+      "query_species": "Crotalus ruber",
+      "venom_status": "Venomous",
+      "current_train": 141,
+      "train_gap": 159,
+      "requested_downloads": 164,
+      "priority": 1
+    },
+    {
+      "scientific_name": "Crotalus scutulatus",
+      "query_species": "Crotalus scutulatus",
+      "venom_status": "Venomous",
+      "current_train": 147,
+      "train_gap": 153,
+      "requested_downloads": 158,
+      "priority": 1
+    },
+    {
+      "scientific_name": "Laticauda colubrina",
+      "query_species": "Laticauda colubrina",
+      "venom_status": "Venomous",
+      "current_train": 149,
+      "train_gap": 151,
+      "requested_downloads": 156,
+      "priority": 1
+    },
+    {
+      "scientific_name": "Naja atra",
+      "query_species": "Naja atra",
+      "venom_status": "Venomous",
+      "current_train": 144,
+      "train_gap": 156,
+      "requested_downloads": 161,
+      "priority": 1
+    },
+    {
+      "scientific_name": "Ophiophagus hannah",
+      "query_species": "Ophiophagus hannah",
+      "venom_status": "Venomous",
+      "current_train": 143,
+      "train_gap": 157,
+      "requested_downloads": 162,
+      "priority": 1
+    },
+    {
+      "scientific_name": "Protobothrops mucrosquamatus",
+      "query_species": "Protobothrops mucrosquamatus",
+      "venom_status": "Venomous",
+      "current_train": 148,
+      "train_gap": 152,
+      "requested_downloads": 157,
+      "priority": 1
+    },
+    {
+      "scientific_name": "Sistrurus miliarius",
+      "query_species": "Sistrurus miliarius",
+      "venom_status": "Venomous",
+      "current_train": 143,
+      "train_gap": 157,
+      "requested_downloads": 162,
+      "priority": 1
+    },
+    {
+      "scientific_name": "Ahaetulla nasuta",
+      "query_species": "Ahaetulla nasuta",
+      "venom_status": "Non Venomous",
+      "current_train": 159,
+      "train_gap": 141,
+      "requested_downloads": 146,
+      "priority": 2
+    },
+    {
+      "scientific_name": "Ahaetulla prasina",
+      "query_species": "Ahaetulla prasina",
+      "venom_status": "Non Venomous",
+      "current_train": 160,
+      "train_gap": 140,
+      "requested_downloads": 145,
+      "priority": 2
+    },
+    {
+      "scientific_name": "Bogertophis subocularis",
+      "query_species": "Bogertophis subocularis",
+      "venom_status": "Non Venomous",
+      "current_train": 158,
+      "train_gap": 142,
+      "requested_downloads": 147,
+      "priority": 2
+    },
+    {
+      "scientific_name": "Boiga kraepelini",
+      "query_species": "Boiga kraepelini",
+      "venom_status": "Non Venomous",
+      "current_train": 161,
+      "train_gap": 139,
+      "requested_downloads": 144,
+      "priority": 2
+    },
+    {
+      "scientific_name": "Carphophis vermis",
+      "query_species": "Carphophis vermis",
+      "venom_status": "Non Venomous",
+      "current_train": 158,
+      "train_gap": 142,
+      "requested_downloads": 147,
+      "priority": 2
+    },
+    {
+      "scientific_name": "Charina bottae",
+      "query_species": "Charina bottae",
+      "venom_status": "Non Venomous",
+      "current_train": 152,
+      "train_gap": 148,
+      "requested_downloads": 153,
+      "priority": 2
+    },
+    {
+      "scientific_name": "Contia tenuis",
+      "query_species": "Contia tenuis",
+      "venom_status": "Non Venomous",
+      "current_train": 154,
+      "train_gap": 146,
+      "requested_downloads": 151,
+      "priority": 2
+    },
+    {
+      "scientific_name": "Corallus caninus",
+      "query_species": "Corallus caninus",
+      "venom_status": "Non Venomous",
+      "current_train": 152,
+      "train_gap": 148,
+      "requested_downloads": 153,
+      "priority": 2
+    },
+    {
+      "scientific_name": "Imantodes cenchoa",
+      "query_species": "Imantodes cenchoa",
+      "venom_status": "Non Venomous",
+      "current_train": 160,
+      "train_gap": 140,
+      "requested_downloads": 145,
+      "priority": 2
+    },
+    {
+      "scientific_name": "Lampropeltis alterna",
+      "query_species": "Lampropeltis alterna",
+      "venom_status": "Non Venomous",
+      "current_train": 152,
+      "train_gap": 148,
+      "requested_downloads": 153,
+      "priority": 2
+    },
+    {
+      "scientific_name": "Lampropeltis pyromelana",
+      "query_species": "Lampropeltis pyromelana",
+      "venom_status": "Non Venomous",
+      "current_train": 152,
+      "train_gap": 148,
+      "requested_downloads": 153,
+      "priority": 2
+    },
+    {
+      "scientific_name": "Lampropeltis triangulum",
+      "query_species": "Lampropeltis triangulum",
+      "venom_status": "Non Venomous",
+      "current_train": 152,
+      "train_gap": 148,
+      "requested_downloads": 153,
+      "priority": 2
+    },
+    {
+      "scientific_name": "Lampropeltis zonata",
+      "query_species": "Lampropeltis zonata",
+      "venom_status": "Non Venomous",
+      "current_train": 151,
+      "train_gap": 149,
+      "requested_downloads": 154,
+      "priority": 2
+    },
+    {
+      "scientific_name": "Morelia spilota",
+      "query_species": "Morelia spilota",
+      "venom_status": "Non Venomous",
+      "current_train": 154,
+      "train_gap": 146,
+      "requested_downloads": 151,
+      "priority": 2
+    },
+    {
+      "scientific_name": "Natrix maura",
+      "query_species": "Natrix maura",
+      "venom_status": "Non Venomous",
+      "current_train": 154,
+      "train_gap": 146,
+      "requested_downloads": 151,
+      "priority": 2
+    },
+    {
+      "scientific_name": "Tantilla coronata",
+      "query_species": "Tantilla coronata",
+      "venom_status": "Non Venomous",
+      "current_train": 158,
+      "train_gap": 142,
+      "requested_downloads": 147,
+      "priority": 2
+    },
+    {
+      "scientific_name": "Tantilla gracilis",
+      "query_species": "Tantilla gracilis",
+      "venom_status": "Non Venomous",
+      "current_train": 154,
+      "train_gap": 146,
+      "requested_downloads": 151,
+      "priority": 2
+    },
+    {
+      "scientific_name": "Agkistrodon piscivorus",
+      "query_species": "Agkistrodon piscivorus",
+      "venom_status": "Venomous",
+      "current_train": 160,
+      "train_gap": 140,
+      "requested_downloads": 145,
+      "priority": 2
+    },
+    {
+      "scientific_name": "Austrelaps superbus",
+      "query_species": "Austrelaps superbus",
+      "venom_status": "Venomous",
+      "current_train": 161,
+      "train_gap": 139,
+      "requested_downloads": 144,
+      "priority": 2
+    },
+    {
+      "scientific_name": "Boiga irregularis",
+      "query_species": "Boiga irregularis",
+      "venom_status": "Venomous",
+      "current_train": 157,
+      "train_gap": 143,
+      "requested_downloads": 148,
+      "priority": 2
+    },
+    {
+      "scientific_name": "Bothriechis schlegelii",
+      "query_species": "Bothriechis schlegelii",
+      "venom_status": "Venomous",
+      "current_train": 166,
+      "train_gap": 134,
+      "requested_downloads": 139,
+      "priority": 2
+    },
+    {
+      "scientific_name": "Bothrops asper",
+      "query_species": "Bothrops asper",
+      "venom_status": "Venomous",
+      "current_train": 162,
+      "train_gap": 138,
+      "requested_downloads": 143,
+      "priority": 2
+    },
+    {
+      "scientific_name": "Causus rhombeatus",
+      "query_species": "Causus rhombeatus",
+      "venom_status": "Venomous",
+      "current_train": 154,
+      "train_gap": 146,
+      "requested_downloads": 151,
+      "priority": 2
+    },
+    {
+      "scientific_name": "Crotalus stephensi",
+      "query_species": "Crotalus stephensi",
+      "venom_status": "Venomous",
+      "current_train": 151,
+      "train_gap": 149,
+      "requested_downloads": 154,
+      "priority": 2
+    },
+    {
+      "scientific_name": "Crotalus tigris",
+      "query_species": "Crotalus tigris",
+      "venom_status": "Venomous",
+      "current_train": 158,
+      "train_gap": 142,
+      "requested_downloads": 147,
+      "priority": 2
+    },
+    {
+      "scientific_name": "Crotalus triseriatus",
+      "query_species": "Crotalus triseriatus",
+      "venom_status": "Venomous",
+      "current_train": 151,
+      "train_gap": 149,
+      "requested_downloads": 154,
+      "priority": 2
+    },
+    {
+      "scientific_name": "Pseudechis australis",
+      "query_species": "Pseudechis australis",
+      "venom_status": "Venomous",
+      "current_train": 152,
+      "train_gap": 148,
+      "requested_downloads": 153,
+      "priority": 2
+    },
+    {
+      "scientific_name": "Tropidolaemus wagleri",
+      "query_species": "Tropidolaemus wagleri",
+      "venom_status": "Venomous",
+      "current_train": 153,
+      "train_gap": 147,
+      "requested_downloads": 152,
+      "priority": 2
+    }
+  ]
+}

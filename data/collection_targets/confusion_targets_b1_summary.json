@@ -1,0 +1,13 @@
+{
+  "total_targets": 12,
+  "by_priority": {
+    "1": 3,
+    "2": 6,
+    "3": 3
+  },
+  "by_model_target": {
+    "species_b1": 9,
+    "binary_preventive": 3
+  },
+  "recommendation": "Reforzar primero species_b1 prioridades 1 y 2; despues reentrenar o recalibrar binary_preventive para bajar No concluyente en no venenosas sin sacrificar safety recall."
+}

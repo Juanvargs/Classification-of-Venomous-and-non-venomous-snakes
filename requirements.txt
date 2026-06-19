@@ -1,0 +1,10 @@
+tensorflow>=2.15
+numpy
+matplotlib
+seaborn
+scikit-learn
+streamlit
+Pillow
+fastapi
+uvicorn
+python-multipart

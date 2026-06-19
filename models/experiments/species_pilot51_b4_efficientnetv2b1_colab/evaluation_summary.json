@@ -1,0 +1,9 @@
+{
+  "selected_model": "best_head_model.keras",
+  "accuracy": 0.6389776468276978,
+  "macro_f1": 0.6345893093586661,
+  "weighted_f1": 0.6397784848111363,
+  "top3_accuracy": 0.8578274846076965,
+  "top5_accuracy": 0.9137380123138428,
+  "support": 1252
+}

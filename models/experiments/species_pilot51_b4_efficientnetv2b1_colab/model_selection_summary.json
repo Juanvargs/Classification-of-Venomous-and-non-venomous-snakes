@@ -1,0 +1,20 @@
+{
+  "selected_model": "best_head_model.keras",
+  "decision": "Head-only B4 selected as current B4 winner. Fine-tuning postponed until external evaluation.",
+  "baseline_b1_test": {
+    "accuracy": 0.6261980830670927,
+    "macro_f1": 0.62802204013269,
+    "weighted_f1": 0.6321786171234413,
+    "top3_accuracy": 0.8386581469648562,
+    "top5_accuracy": 0.9009584664536742
+  },
+  "b4_test": {
+    "selected_model": "best_head_model.keras",
+    "accuracy": 0.6389776468276978,
+    "macro_f1": 0.6345893093586661,
+    "weighted_f1": 0.6397784848111363,
+    "top3_accuracy": 0.8578274846076965,
+    "top5_accuracy": 0.9137380123138428,
+    "support": 1252
+  }
+}

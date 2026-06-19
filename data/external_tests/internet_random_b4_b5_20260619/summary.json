@@ -1,0 +1,6 @@
+{
+  "manifest": "data\\external_tests\\internet_random_b4_b5_20260619\\manifest.csv",
+  "images": 5,
+  "venomous": 2,
+  "non_venomous": 3
+}

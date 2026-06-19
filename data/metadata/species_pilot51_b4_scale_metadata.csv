@@ -1,0 +1,52 @@
+class_folder,class_id,scientific_name,common_name,venom_status,countries,continents,train_count_source,test_count_source
+018_Agkistrodon_contortrix,18,Agkistrodon contortrix,Copperhead,Venomous,United States of America | unknown,North America | unknown,300,27
+020_Agkistrodon_piscivorus,20,Agkistrodon piscivorus,Cottonmouth,Venomous,United States of America | unknown,North America | unknown,300,15
+025_Ahaetulla_nasuta,25,Ahaetulla nasuta,Green vine snake,Non Venomous,Bangladesh | Burma | Cambodia | India | Malaysia | Sri Lanka | Thailand | Vietnam | unknown,Asia | unknown,227,29
+026_Ahaetulla_prasina,26,Ahaetulla prasina,Asian vine snake,Non Venomous,Burma | Cambodia | Indonesia | Laos | Malaysia | Singapore | Sri Lanka | Thailand | Vietnam | unknown,Asia | unknown,300,25
+048_Atractus_crassicaudatus,48,Atractus crassicaudatus,Thick-tailed ground snake,Non Venomous,Colombia | unknown,South America | unknown,282,27
+052_Austrelaps_superbus,52,Austrelaps superbus,Lowland copperhead,Venomous,Australia | unknown,Australia | Oceania | unknown,300,22
+054_Bitis_arietans,54,Bitis arietans,Puff adder,Venomous,Angola | Benin | Botswana | Burundi | Ivory Coast | Kenya | Mali | Morocco | Mozambique | Namibia | Nigeria | Oman | Rwanda | Saudi Arabia | South Africa | South Sudan | Spain | Sudan | Swaziland | Tanzania | United Kingdom | United States of America | Zambia | Zimbabwe | unknown,Africa | Asia | Europe | North America | unknown,300,25
+057_Bitis_gabonica,57,Bitis gabonica,Gaboon viper,Venomous,Angola | Burundi | Canada | Gabon | Germany | Malaysia | Mexico | South Africa | South Sudan | Spain | Sweden | Switzerland | Tanzania | Uganda | United Kingdom | United States of America | Zambia | unknown,Africa | Asia | Europe | North America | unknown,191,26
+065_Bogertophis_subocularis,65,Bogertophis subocularis,Trans-Pecos rat snake,Non Venomous,Mexico | United States of America | unknown,North America | South America | unknown,207,26
+071_Boiga_irregularis,71,Boiga irregularis,Brown tree snake,Venomous,Australia | Guam | Indonesia | Papua New Guinea | unknown,Asia | Australia | Oceania | unknown,300,24
+073_Boiga_kraepelini,73,Boiga kraepelini,Keeled rat snake,Non Venomous,China | Taiwan | unknown,Asia | unknown,247,22
+083_Bothriechis_schlegelii,83,Bothriechis schlegelii,Eyelash palm pitviper,Venomous,Australia | Colombia | Costa Rica | Ecuador | Mexico | Panama | United Kingdom | unknown,Australia | Europe | North America | South America | unknown,216,24
+087_Bothrops_asper,87,Bothrops asper,Fer-de-lance,Venomous,Belize | Colombia | Costa Rica | Ecuador | Guatemala | Honduras | Mexico | Panama | unknown,North America | South America | unknown,300,23
+088_Bothrops_atrox,88,Bothrops atrox,Common lancehead,Venomous,Bolivia | Brazil | Colombia | Ecuador | French Guiana | Guyana | Peru | Suriname | Trinidad and Tobago | Venezuela | unknown,South America | unknown,300,30
+111_Carphophis_vermis,111,Carphophis vermis,Western worm snake,Non Venomous,United States of America | unknown,North America | unknown,224,26
+113_Causus_rhombeatus,113,Causus rhombeatus,Rhombic night adder,Venomous,Botswana | Democratic Republic of the Congo | Ethiopia | Kenya | South Africa | Zambia | Zimbabwe | unknown,Africa | unknown,244,25
+114_Cemophora_coccinea,114,Cemophora coccinea,Scarlet snake,Non Venomous,United States of America | unknown,North America | unknown,224,26
+122_Charina_bottae,122,Charina bottae,Rubber boa,Non Venomous,Canada | United States of America | unknown,North America | unknown,300,22
+155_Contia_tenuis,155,Contia tenuis,Sharp-tailed snake,Non Venomous,Canada | United States of America | unknown,North America | unknown,300,22
+158_Corallus_caninus,158,Corallus caninus,Emerald tree boa,Non Venomous,Australia | Brazil | Canada | Colombia | France | French Guiana | Germany | Guyana | Netherlands | Peru | Singapore | Suriname | United Kingdom | United States of America | unknown,Asia | Australia | Europe | North America | South America | unknown,194,31
+159_Corallus_hortulanus,159,Corallus hortulanus,Amazon tree boa,Non Venomous,Bolivia | Brazil | Colombia | Costa Rica | Ecuador | French Guiana | Guyana | Hungary | Peru | Suriname | unknown,Europe | North America | South America | unknown,300,27
+168_Crotalus_cerastes,168,Crotalus cerastes,Sidewinder,Venomous,Mexico | United States of America | unknown,North America | South America | unknown,300,18
+175_Crotalus_lepidus,175,Crotalus lepidus,Rock rattlesnake,Venomous,Mexico | United States of America | unknown,North America | South America | unknown,205,26
+180_Crotalus_ornatus,180,Crotalus ornatus,Eastern ornate box turtle,Venomous,Mexico | United States of America | unknown,North America | South America | unknown,251,28
+185_Crotalus_ruber,185,Crotalus ruber,Red diamond rattlesnake,Venomous,Mexico | United States of America | unknown,North America | South America | unknown,300,29
+186_Crotalus_scutulatus,186,Crotalus scutulatus,Mohave rattlesnake,Venomous,Mexico | United States of America | unknown,North America | South America | unknown,300,24
+188_Crotalus_stephensi,188,Crotalus stephensi,Panamint rattlesnake,Venomous,United States of America | unknown,North America | unknown,224,21
+189_Crotalus_tigris,189,Crotalus tigris,Tiger rattlesnake,Venomous,Mexico | United States of America | unknown,North America | South America | unknown,237,26
+191_Crotalus_triseriatus,191,Crotalus triseriatus,Mexican dusky rattlesnake,Venomous,Mexico | unknown,North America | South America | unknown,195,22
+215_Dendrelaphis_pictus,215,Dendrelaphis pictus,Painted bronzeback,Non Venomous,Bangladesh | Cambodia | China | India | Indonesia | Laos | Malaysia | Singapore | Thailand | Vietnam | unknown,Asia | unknown,299,28
+280_Eunectes_murinus,280,Eunectes murinus,Green anaconda,Non Venomous,Bolivia | Brazil | Colombia | Ecuador | France | French Guiana | Germany | Guyana | Hungary | Malaysia | Peru | Singapore | Spain | Suriname | United States of America | Venezuela | unknown,Asia | Europe | North America | South America | unknown,216,20
+321_Heterodon_simus,321,Heterodon simus,Southern hog-nosed snake,Non Venomous,United States of America | unknown,North America | unknown,191,25
+338_Imantodes_cenchoa,338,Imantodes cenchoa,Blunthead tree snake,Non Venomous,Belize | Bolivia | Brazil | Colombia | Costa Rica | Ecuador | French Guiana | Guatemala | Guyana | Honduras | Mexico | Nicaragua | Panama | Peru | Trinidad and Tobago | Venezuela | unknown,North America | South America | unknown,300,25
+345_Lampropeltis_alterna,345,Lampropeltis alterna,Gray-banded kingsnake,Non Venomous,Mexico | United States of America | unknown,North America | South America | unknown,190,24
+360_Lampropeltis_pyromelana,360,Lampropeltis pyromelana,Sonoran mountain kingsnake,Non Venomous,United States of America | unknown,North America | unknown,203,25
+363_Lampropeltis_triangulum,363,Lampropeltis triangulum,Milk snake,Non Venomous,Canada | Netherlands | United States of America | unknown,Europe | North America | unknown,300,21
+364_Lampropeltis_zonata,364,Lampropeltis zonata,California mountain kingsnake,Non Venomous,United States of America | unknown,North America | unknown,214,25
+368_Laticauda_colubrina,368,Laticauda colubrina,Yellow-lipped sea krait,Venomous,Fiji | India | Indonesia | Malaysia | Palau | Papua New Guinea | Philippines | Tonga | Vanuatu | unknown,Asia | Australia | Oceania | unknown,293,23
+373_Leptodeira_annulata,373,Leptodeira annulata,Banded cat-eyed snake,Non Venomous,Argentina | Bolivia | Brazil | Colombia | Costa Rica | Ecuador | El Salvador | French Guiana | Guatemala | Guyana | Mexico | Panama | Peru | Suriname | Trinidad and Tobago | Venezuela | unknown,North America | South America | unknown,233,25
+453_Morelia_spilota,453,Morelia spilota,Diamond python,Non Venomous,Australia | France | Germany | Singapore | United Kingdom | unknown,Asia | Australia | Europe | Oceania | unknown,201,21
+457_Naja_atra,457,Naja atra,Chinese cobra,Venomous,China | Hong Kong | Hong Kong S.A.R. | Macau S.A.R | Taiwan | Vietnam | unknown,Asia | unknown,260,26
+470_Natrix_maura,470,Natrix maura,Viperine water snake,Non Venomous,Algeria | France | Italy | Morocco | Portugal | Spain | Switzerland | Tunisia | unknown,Africa | Europe | unknown,300,20
+485_Ninia_sebae,485,Ninia sebae,Redback coffee snake,Non Venomous,Belize | Costa Rica | El Salvador | Guatemala | Honduras | Mexico | Nicaragua | unknown,North America | South America | unknown,243,25
+497_Ophiophagus_hannah,497,Ophiophagus hannah,King cobra,Venomous,Bhutan | China | Hong Kong | Hong Kong S.A.R. | India | Indonesia | Malaysia | Singapore | Spain | Thailand | United Kingdom | United States of America | Vietnam | unknown,Asia | Europe | North America | unknown,206,27
+560_Protobothrops_mucrosquamatus,560,Protobothrops mucrosquamatus,unknown,Venomous,China | Hong Kong S.A.R. | Japan | Taiwan | Vietnam | unknown,Asia | unknown,300,25
+562_Psammodynastes_pulverulentus,562,Psammodynastes pulverulentus,unknown,Non Venomous,Bangladesh | Bhutan | China | Hong Kong | Hong Kong S.A.R. | India | Indonesia | Laos | Malaysia | Philippines | Taiwan | Thailand | Vietnam | unknown,Asia | unknown,300,25
+576_Pseudechis_australis,576,Pseudechis australis,unknown,Venomous,Australia | unknown,Australia | Oceania | unknown,248,20
+652_Sistrurus_miliarius,652,Sistrurus miliarius,unknown,Venomous,United States of America | unknown,North America | unknown,200,28
+672_Tantilla_coronata,672,Tantilla coronata,unknown,Non Venomous,United States of America | unknown,North America | unknown,225,26
+674_Tantilla_gracilis,674,Tantilla gracilis,unknown,Non Venomous,Mexico | United States of America | unknown,North America | unknown,249,23
+741_Tropidolaemus_wagleri,741,Tropidolaemus wagleri,unknown,Venomous,Indonesia | Malaysia | Philippines | Singapore | Thailand | unknown,Asia | unknown,297,27

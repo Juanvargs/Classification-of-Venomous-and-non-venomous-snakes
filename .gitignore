@@ -1,0 +1,42 @@
+.venv/
+__pycache__/
+*.pyc
+.expo/
+
+data/active/
+data/archive/
+data/raw/
+reports/
+
+# Evitar checkpoints pesados o duplicados; se conservan en Git solo los
+# best_model.keras necesarios para ejecutar las apps.
+models/**/*.zip
+models/**/best_head_model.keras
+models/**/final_head_model.keras
+models/**/final_model.keras
+models/**/best_finetuned_model.keras
+
+# Rutas antiguas, conservadas por si se vuelven a generar en la raiz.
+archive.zip
+DATA_1.zip
+DATA_2.zip
+Snake Images/
+Snake Images Clean/
+Snake Images Extended/
+Snake Images Extended Clean/
+outputs/
+outputs_clean/
+outputs_optimized/
+outputs_extended_clean/
+outputs_efficientnetb0_extended/
+outputs_venomous_recall/
+outputs_venomous_recall_125/
+dataset_audit/
+dataset_audit_clean/
+dataset_audit_extended/
+dataset_audit_extended_clean/
+dataset_sources/
+threshold_reports/
+project_diagnostics/
+project_diagnostics_efficientnet/
+external_eval/

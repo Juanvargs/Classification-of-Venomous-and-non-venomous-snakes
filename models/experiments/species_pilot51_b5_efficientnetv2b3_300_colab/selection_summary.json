@@ -1,0 +1,21 @@
+{
+  "selected_model": "best_head_model.keras",
+  "reason": "El fine-tuning B5 no supero al modelo de solo cabeza en validacion.",
+  "b4_test": {
+    "accuracy": 0.6389776468276978,
+    "top3": 0.8578274846076965,
+    "top5": 0.9137380123138428
+  },
+  "b5_head_test_observed": {
+    "accuracy": 0.6469648480415344,
+    "loss": 1.3535592555999756,
+    "top3": 0.8634185194969177,
+    "top5": 0.909744381904602
+  },
+  "b5_finetuning_best_observed_epoch_5": {
+    "val_accuracy": 0.6144,
+    "val_loss": 1.4655,
+    "val_top3": 0.8364,
+    "val_top5": 0.9011
+  }
+}

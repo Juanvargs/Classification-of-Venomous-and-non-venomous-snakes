@@ -1,0 +1,20 @@
+{
+  "data_dir": ".\\data\\active\\Snake Images Targeted Clean",
+  "batch_size": 32,
+  "epochs": 20,
+  "fine_tune_epochs": 5,
+  "learning_rate": 0.001,
+  "fine_tune_learning_rate": 1e-06,
+  "fine_tune_at": 220,
+  "architecture": "efficientnetb0",
+  "critical_class": "Venomous",
+  "critical_class_weight_multiplier": 1.0,
+  "class_names": [
+    "Non Venomous",
+    "Venomous"
+  ],
+  "class_weights": {
+    "0": 1.0583262890955198,
+    "1": 0.9477668433005298
+  }
+}

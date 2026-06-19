@@ -1,0 +1,43 @@
+{
+  "selected_species": 3,
+  "species_per_venom_status": {
+    "Venomous": 3
+  },
+  "images_by_split": {
+    "train": 84,
+    "val": 21,
+    "test": 45
+  },
+  "species": [
+    {
+      "class_folder": "001_Bungarus_caeruleus",
+      "scientific_name": "Bungarus caeruleus",
+      "common_name": "Common krait",
+      "venom_status": "Venomous",
+      "country": "Bangladesh",
+      "train": 28,
+      "val": 7,
+      "test": 15
+    },
+    {
+      "class_folder": "002_Ophiophagus_hannah",
+      "scientific_name": "Ophiophagus hannah",
+      "common_name": "King cobra",
+      "venom_status": "Venomous",
+      "country": "Bangladesh",
+      "train": 28,
+      "val": 7,
+      "test": 15
+    },
+    {
+      "class_folder": "003_Daboia_russelii",
+      "scientific_name": "Daboia russelii",
+      "common_name": "Russell's viper",
+      "venom_status": "Venomous",
+      "country": "Bangladesh",
+      "train": 28,
+      "val": 7,
+      "test": 15
+    }
+  ]
+}

@@ -1,0 +1,523 @@
+{
+  "selected_species": 50,
+  "species_per_venom_status": {
+    "Venomous": 25,
+    "Non Venomous": 25
+  },
+  "images_by_split": {
+    "train": 7603,
+    "val": 1903,
+    "test": 1232
+  },
+  "images_by_venom_status_and_split": {
+    "Non Venomous/test": 621,
+    "Non Venomous/train": 3835,
+    "Non Venomous/val": 960,
+    "Venomous/test": 611,
+    "Venomous/train": 3768,
+    "Venomous/val": 943
+  },
+  "missing_images": 0,
+  "species": [
+    {
+      "class_folder": "018_Agkistrodon_contortrix",
+      "class_id": "18",
+      "scientific_name": "Agkistrodon contortrix",
+      "common_name": "Copperhead",
+      "venom_status": "Venomous",
+      "train": 144,
+      "val": 36,
+      "test": 27
+    },
+    {
+      "class_folder": "020_Agkistrodon_piscivorus",
+      "class_id": "20",
+      "scientific_name": "Agkistrodon piscivorus",
+      "common_name": "Cottonmouth",
+      "venom_status": "Venomous",
+      "train": 160,
+      "val": 40,
+      "test": 15
+    },
+    {
+      "class_folder": "025_Ahaetulla_nasuta",
+      "class_id": "25",
+      "scientific_name": "Ahaetulla nasuta",
+      "common_name": "Green vine snake",
+      "venom_status": "Non Venomous",
+      "train": 159,
+      "val": 40,
+      "test": 29
+    },
+    {
+      "class_folder": "026_Ahaetulla_prasina",
+      "class_id": "26",
+      "scientific_name": "Ahaetulla prasina",
+      "common_name": "Asian vine snake",
+      "venom_status": "Non Venomous",
+      "train": 160,
+      "val": 40,
+      "test": 25
+    },
+    {
+      "class_folder": "048_Atractus_crassicaudatus",
+      "class_id": "48",
+      "scientific_name": "Atractus crassicaudatus",
+      "common_name": "Thick-tailed ground snake",
+      "venom_status": "Non Venomous",
+      "train": 150,
+      "val": 37,
+      "test": 27
+    },
+    {
+      "class_folder": "052_Austrelaps_superbus",
+      "class_id": "52",
+      "scientific_name": "Austrelaps superbus",
+      "common_name": "Lowland copperhead",
+      "venom_status": "Venomous",
+      "train": 161,
+      "val": 40,
+      "test": 22
+    },
+    {
+      "class_folder": "054_Bitis_arietans",
+      "class_id": "54",
+      "scientific_name": "Bitis arietans",
+      "common_name": "Puff adder",
+      "venom_status": "Venomous",
+      "train": 146,
+      "val": 37,
+      "test": 25
+    },
+    {
+      "class_folder": "057_Bitis_gabonica",
+      "class_id": "57",
+      "scientific_name": "Bitis gabonica",
+      "common_name": "Gaboon viper",
+      "venom_status": "Venomous",
+      "train": 149,
+      "val": 37,
+      "test": 26
+    },
+    {
+      "class_folder": "065_Bogertophis_subocularis",
+      "class_id": "65",
+      "scientific_name": "Bogertophis subocularis",
+      "common_name": "Trans-Pecos rat snake",
+      "venom_status": "Non Venomous",
+      "train": 158,
+      "val": 39,
+      "test": 26
+    },
+    {
+      "class_folder": "071_Boiga_irregularis",
+      "class_id": "71",
+      "scientific_name": "Boiga irregularis",
+      "common_name": "Brown tree snake",
+      "venom_status": "Venomous",
+      "train": 157,
+      "val": 39,
+      "test": 24
+    },
+    {
+      "class_folder": "073_Boiga_kraepelini",
+      "class_id": "73",
+      "scientific_name": "Boiga kraepelini",
+      "common_name": "Keeled rat snake",
+      "venom_status": "Non Venomous",
+      "train": 161,
+      "val": 40,
+      "test": 22
+    },
+    {
+      "class_folder": "083_Bothriechis_schlegelii",
+      "class_id": "83",
+      "scientific_name": "Bothriechis schlegelii",
+      "common_name": "Eyelash palm pitviper",
+      "venom_status": "Venomous",
+      "train": 166,
+      "val": 42,
+      "test": 24
+    },
+    {
+      "class_folder": "087_Bothrops_asper",
+      "class_id": "87",
+      "scientific_name": "Bothrops asper",
+      "common_name": "Fer-de-lance",
+      "venom_status": "Venomous",
+      "train": 162,
+      "val": 40,
+      "test": 23
+    },
+    {
+      "class_folder": "088_Bothrops_atrox",
+      "class_id": "88",
+      "scientific_name": "Bothrops atrox",
+      "common_name": "Common lancehead",
+      "venom_status": "Venomous",
+      "train": 147,
+      "val": 37,
+      "test": 30
+    },
+    {
+      "class_folder": "111_Carphophis_vermis",
+      "class_id": "111",
+      "scientific_name": "Carphophis vermis",
+      "common_name": "Western worm snake",
+      "venom_status": "Non Venomous",
+      "train": 158,
+      "val": 39,
+      "test": 26
+    },
+    {
+      "class_folder": "113_Causus_rhombeatus",
+      "class_id": "113",
+      "scientific_name": "Causus rhombeatus",
+      "common_name": "Rhombic night adder",
+      "venom_status": "Venomous",
+      "train": 154,
+      "val": 39,
+      "test": 25
+    },
+    {
+      "class_folder": "114_Cemophora_coccinea",
+      "class_id": "114",
+      "scientific_name": "Cemophora coccinea",
+      "common_name": "Scarlet snake",
+      "venom_status": "Non Venomous",
+      "train": 150,
+      "val": 38,
+      "test": 26
+    },
+    {
+      "class_folder": "122_Charina_bottae",
+      "class_id": "122",
+      "scientific_name": "Charina bottae",
+      "common_name": "Rubber boa",
+      "venom_status": "Non Venomous",
+      "train": 152,
+      "val": 38,
+      "test": 22
+    },
+    {
+      "class_folder": "155_Contia_tenuis",
+      "class_id": "155",
+      "scientific_name": "Contia tenuis",
+      "common_name": "Sharp-tailed snake",
+      "venom_status": "Non Venomous",
+      "train": 154,
+      "val": 39,
+      "test": 22
+    },
+    {
+      "class_folder": "158_Corallus_caninus",
+      "class_id": "158",
+      "scientific_name": "Corallus caninus",
+      "common_name": "Emerald tree boa",
+      "venom_status": "Non Venomous",
+      "train": 152,
+      "val": 38,
+      "test": 31
+    },
+    {
+      "class_folder": "159_Corallus_hortulanus",
+      "class_id": "159",
+      "scientific_name": "Corallus hortulanus",
+      "common_name": "Amazon tree boa",
+      "venom_status": "Non Venomous",
+      "train": 149,
+      "val": 37,
+      "test": 27
+    },
+    {
+      "class_folder": "168_Crotalus_cerastes",
+      "class_id": "168",
+      "scientific_name": "Crotalus cerastes",
+      "common_name": "Sidewinder",
+      "venom_status": "Venomous",
+      "train": 149,
+      "val": 37,
+      "test": 18
+    },
+    {
+      "class_folder": "175_Crotalus_lepidus",
+      "class_id": "175",
+      "scientific_name": "Crotalus lepidus",
+      "common_name": "Rock rattlesnake",
+      "venom_status": "Venomous",
+      "train": 150,
+      "val": 37,
+      "test": 26
+    },
+    {
+      "class_folder": "180_Crotalus_ornatus",
+      "class_id": "180",
+      "scientific_name": "Crotalus ornatus",
+      "common_name": "Eastern ornate box turtle",
+      "venom_status": "Venomous",
+      "train": 143,
+      "val": 36,
+      "test": 28
+    },
+    {
+      "class_folder": "185_Crotalus_ruber",
+      "class_id": "185",
+      "scientific_name": "Crotalus ruber",
+      "common_name": "Red diamond rattlesnake",
+      "venom_status": "Venomous",
+      "train": 141,
+      "val": 35,
+      "test": 29
+    },
+    {
+      "class_folder": "186_Crotalus_scutulatus",
+      "class_id": "186",
+      "scientific_name": "Crotalus scutulatus",
+      "common_name": "Mohave rattlesnake",
+      "venom_status": "Venomous",
+      "train": 147,
+      "val": 37,
+      "test": 24
+    },
+    {
+      "class_folder": "188_Crotalus_stephensi",
+      "class_id": "188",
+      "scientific_name": "Crotalus stephensi",
+      "common_name": "Panamint rattlesnake",
+      "venom_status": "Venomous",
+      "train": 151,
+      "val": 38,
+      "test": 21
+    },
+    {
+      "class_folder": "189_Crotalus_tigris",
+      "class_id": "189",
+      "scientific_name": "Crotalus tigris",
+      "common_name": "Tiger rattlesnake",
+      "venom_status": "Venomous",
+      "train": 158,
+      "val": 40,
+      "test": 26
+    },
+    {
+      "class_folder": "191_Crotalus_triseriatus",
+      "class_id": "191",
+      "scientific_name": "Crotalus triseriatus",
+      "common_name": "Mexican dusky rattlesnake",
+      "venom_status": "Venomous",
+      "train": 151,
+      "val": 38,
+      "test": 22
+    },
+    {
+      "class_folder": "215_Dendrelaphis_pictus",
+      "class_id": "215",
+      "scientific_name": "Dendrelaphis pictus",
+      "common_name": "Painted bronzeback",
+      "venom_status": "Non Venomous",
+      "train": 146,
+      "val": 37,
+      "test": 28
+    },
+    {
+      "class_folder": "321_Heterodon_simus",
+      "class_id": "321",
+      "scientific_name": "Heterodon simus",
+      "common_name": "Southern hog-nosed snake",
+      "venom_status": "Non Venomous",
+      "train": 150,
+      "val": 38,
+      "test": 25
+    },
+    {
+      "class_folder": "338_Imantodes_cenchoa",
+      "class_id": "338",
+      "scientific_name": "Imantodes cenchoa",
+      "common_name": "Blunthead tree snake",
+      "venom_status": "Non Venomous",
+      "train": 160,
+      "val": 40,
+      "test": 25
+    },
+    {
+      "class_folder": "345_Lampropeltis_alterna",
+      "class_id": "345",
+      "scientific_name": "Lampropeltis alterna",
+      "common_name": "Gray-banded kingsnake",
+      "venom_status": "Non Venomous",
+      "train": 152,
+      "val": 38,
+      "test": 24
+    },
+    {
+      "class_folder": "360_Lampropeltis_pyromelana",
+      "class_id": "360",
+      "scientific_name": "Lampropeltis pyromelana",
+      "common_name": "Sonoran mountain kingsnake",
+      "venom_status": "Non Venomous",
+      "train": 152,
+      "val": 38,
+      "test": 25
+    },
+    {
+      "class_folder": "363_Lampropeltis_triangulum",
+      "class_id": "363",
+      "scientific_name": "Lampropeltis triangulum",
+      "common_name": "Milk snake",
+      "venom_status": "Non Venomous",
+      "train": 152,
+      "val": 38,
+      "test": 21
+    },
+    {
+      "class_folder": "364_Lampropeltis_zonata",
+      "class_id": "364",
+      "scientific_name": "Lampropeltis zonata",
+      "common_name": "California mountain kingsnake",
+      "venom_status": "Non Venomous",
+      "train": 151,
+      "val": 38,
+      "test": 25
+    },
+    {
+      "class_folder": "368_Laticauda_colubrina",
+      "class_id": "368",
+      "scientific_name": "Laticauda colubrina",
+      "common_name": "Yellow-lipped sea krait",
+      "venom_status": "Venomous",
+      "train": 149,
+      "val": 37,
+      "test": 23
+    },
+    {
+      "class_folder": "373_Leptodeira_annulata",
+      "class_id": "373",
+      "scientific_name": "Leptodeira annulata",
+      "common_name": "Banded cat-eyed snake",
+      "venom_status": "Non Venomous",
+      "train": 149,
+      "val": 37,
+      "test": 25
+    },
+    {
+      "class_folder": "453_Morelia_spilota",
+      "class_id": "453",
+      "scientific_name": "Morelia spilota",
+      "common_name": "Diamond python",
+      "venom_status": "Non Venomous",
+      "train": 154,
+      "val": 39,
+      "test": 21
+    },
+    {
+      "class_folder": "457_Naja_atra",
+      "class_id": "457",
+      "scientific_name": "Naja atra",
+      "common_name": "Chinese cobra",
+      "venom_status": "Venomous",
+      "train": 144,
+      "val": 36,
+      "test": 26
+    },
+    {
+      "class_folder": "470_Natrix_maura",
+      "class_id": "470",
+      "scientific_name": "Natrix maura",
+      "common_name": "Viperine water snake",
+      "venom_status": "Non Venomous",
+      "train": 154,
+      "val": 38,
+      "test": 20
+    },
+    {
+      "class_folder": "485_Ninia_sebae",
+      "class_id": "485",
+      "scientific_name": "Ninia sebae",
+      "common_name": "Redback coffee snake",
+      "venom_status": "Non Venomous",
+      "train": 150,
+      "val": 38,
+      "test": 25
+    },
+    {
+      "class_folder": "497_Ophiophagus_hannah",
+      "class_id": "497",
+      "scientific_name": "Ophiophagus hannah",
+      "common_name": "King cobra",
+      "venom_status": "Venomous",
+      "train": 143,
+      "val": 36,
+      "test": 27
+    },
+    {
+      "class_folder": "560_Protobothrops_mucrosquamatus",
+      "class_id": "560",
+      "scientific_name": "Protobothrops mucrosquamatus",
+      "common_name": "unknown",
+      "venom_status": "Venomous",
+      "train": 148,
+      "val": 37,
+      "test": 25
+    },
+    {
+      "class_folder": "562_Psammodynastes_pulverulentus",
+      "class_id": "562",
+      "scientific_name": "Psammodynastes pulverulentus",
+      "common_name": "unknown",
+      "venom_status": "Non Venomous",
+      "train": 150,
+      "val": 38,
+      "test": 25
+    },
+    {
+      "class_folder": "576_Pseudechis_australis",
+      "class_id": "576",
+      "scientific_name": "Pseudechis australis",
+      "common_name": "unknown",
+      "venom_status": "Venomous",
+      "train": 152,
+      "val": 38,
+      "test": 20
+    },
+    {
+      "class_folder": "652_Sistrurus_miliarius",
+      "class_id": "652",
+      "scientific_name": "Sistrurus miliarius",
+      "common_name": "unknown",
+      "venom_status": "Venomous",
+      "train": 143,
+      "val": 36,
+      "test": 28
+    },
+    {
+      "class_folder": "672_Tantilla_coronata",
+      "class_id": "672",
+      "scientific_name": "Tantilla coronata",
+      "common_name": "unknown",
+      "venom_status": "Non Venomous",
+      "train": 158,
+      "val": 39,
+      "test": 26
+    },
+    {
+      "class_folder": "674_Tantilla_gracilis",
+      "class_id": "674",
+      "scientific_name": "Tantilla gracilis",
+      "common_name": "unknown",
+      "venom_status": "Non Venomous",
+      "train": 154,
+      "val": 39,
+      "test": 23
+    },
+    {
+      "class_folder": "741_Tropidolaemus_wagleri",
+      "class_id": "741",
+      "scientific_name": "Tropidolaemus wagleri",
+      "common_name": "unknown",
+      "venom_status": "Venomous",
+      "train": 153,
+      "val": 38,
+      "test": 27
+    }
+  ]
+}

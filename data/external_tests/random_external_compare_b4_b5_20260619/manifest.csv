@@ -1,0 +1,21 @@
+id,image_path,true_class,true_species,common_name,country_for_test,source_page,license
+random_ext_001,data\external_tests\internet_random_b4_b5_20260619\images\Venomous\Agkistrodon_contortrix_301602916.jpg,Venomous,Agkistrodon contortrix,,United States of America,https://www.inaturalist.org/observations/301602916,cc-by
+random_ext_002,data\external_tests\internet_random_b4_b5_20260619\images\Venomous\Crotalus_ruber_24419843.jpg,Venomous,Crotalus ruber,,United States of America,https://www.inaturalist.org/observations/24419843,cc-by
+random_ext_003,data\external_tests\internet_random_b4_b5_20260619\images\Non_Venomous\Natrix_maura_215002181.jpg,Non Venomous,Natrix maura,,Spain,https://www.inaturalist.org/observations/215002181,cc-by
+random_ext_004,data\external_tests\internet_random_b4_b5_20260619\images\Non_Venomous\Charina_bottae_128238466.jpg,Non Venomous,Charina bottae,,United States of America,https://www.inaturalist.org/observations/128238466,cc-by
+random_ext_005,data\external_tests\internet_random_b4_b5_20260619\images\Non_Venomous\Ahaetulla_prasina_140873500.jpg,Non Venomous,Ahaetulla prasina,,Thailand,https://www.inaturalist.org/observations/140873500,cc-by
+random_ext_006,data\external_tests\b4_scale_holdout\Venomous\497_Ophiophagus_hannah_holdout_001.jpg,Venomous,Ophiophagus hannah,King cobra,Bhutan,https://www.inaturalist.org/observations/135539740,
+random_ext_007,data\external_tests\b4_scale_holdout\Venomous\189_Crotalus_tigris_holdout_004.jpg,Venomous,Crotalus tigris,Tiger rattlesnake,Mexico,https://www.inaturalist.org/observations/126757407,
+random_ext_008,data\external_tests\b4_scale_holdout\Venomous\741_Tropidolaemus_wagleri_holdout_005.jpg,Venomous,Tropidolaemus wagleri,unknown,Indonesia,https://www.inaturalist.org/observations/125453984,
+random_ext_009,data\external_tests\b4_scale_holdout\Venomous\87_Bothrops_asper_holdout_002.jpg,Venomous,Bothrops asper,Fer-de-lance,Belize,https://www.inaturalist.org/observations/239636363,
+random_ext_010,data\external_tests\b4_scale_holdout\Venomous\83_Bothriechis_schlegelii_holdout_005.jpg,Venomous,Bothriechis schlegelii,Eyelash palm pitviper,Australia,https://www.inaturalist.org/observations/225785883,
+random_ext_011,data\external_tests\b4_scale_holdout\Venomous\186_Crotalus_scutulatus_holdout_003.jpg,Venomous,Crotalus scutulatus,Mohave rattlesnake,Mexico,https://www.inaturalist.org/observations/105358493,
+random_ext_012,data\external_tests\b4_scale_holdout\Venomous\175_Crotalus_lepidus_holdout_004.jpg,Venomous,Crotalus lepidus,Rock rattlesnake,Mexico,https://www.inaturalist.org/observations/15337289,
+random_ext_013,data\external_tests\b4_scale_holdout\Venomous\113_Causus_rhombeatus_holdout_004.jpg,Venomous,Causus rhombeatus,Rhombic night adder,Botswana,https://www.inaturalist.org/observations/107242164,
+random_ext_014,data\external_tests\b4_scale_holdout\Non_Venomous\280_Eunectes_murinus_holdout_005.jpg,Non Venomous,Eunectes murinus,Green anaconda,Bolivia,https://www.inaturalist.org/observations/10659420,
+random_ext_015,data\external_tests\b4_scale_holdout\Non_Venomous\672_Tantilla_coronata_holdout_004.jpg,Non Venomous,Tantilla coronata,unknown,United States of America,https://www.inaturalist.org/observations/15813779,
+random_ext_016,data\external_tests\b4_scale_holdout\Non_Venomous\485_Ninia_sebae_holdout_001.jpg,Non Venomous,Ninia sebae,Redback coffee snake,Belize,https://www.inaturalist.org/observations/119622704,
+random_ext_017,data\external_tests\b4_scale_holdout\Non_Venomous\73_Boiga_kraepelini_holdout_003.jpg,Non Venomous,Boiga kraepelini,Keeled rat snake,China,https://www.inaturalist.org/observations/131283322,
+random_ext_018,data\external_tests\b4_scale_holdout\Non_Venomous\364_Lampropeltis_zonata_holdout_001.jpg,Non Venomous,Lampropeltis zonata,California mountain kingsnake,United States of America,https://www.inaturalist.org/observations/110802988,
+random_ext_019,data\external_tests\b4_scale_holdout\Non_Venomous\485_Ninia_sebae_holdout_003.jpg,Non Venomous,Ninia sebae,Redback coffee snake,Belize,https://www.inaturalist.org/observations/131768043,
+random_ext_020,data\external_tests\b4_scale_holdout\Non_Venomous\360_Lampropeltis_pyromelana_holdout_001.jpg,Non Venomous,Lampropeltis pyromelana,Sonoran mountain kingsnake,United States of America,https://www.inaturalist.org/observations/105340045,
