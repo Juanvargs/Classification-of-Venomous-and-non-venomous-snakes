@@ -28,7 +28,7 @@ import {
 } from "lucide-react-native";
 import { StatusBar } from "expo-status-bar";
 
-const API_URL = "http://192.168.10.19:8000";
+const API_URL = "https://donations-decision-specials-integer.trycloudflare.com";
 
 const COUNTRIES = [
   "Sin region",
@@ -223,7 +223,7 @@ export default function App() {
         method: "POST",
         body: formData,
         headers: {
-          "Content-Type": "multipart/form-data",
+          "bypass-tunnel-reminder": "true",
         },
       });
       const payload = await response.json();

@@ -2,6 +2,19 @@
 __pycache__/
 *.pyc
 .expo/
+.tools/
+node_modules/
+*.log
+*.bak
+
+# Utilidades locales usadas para inspeccionar y reparar notebooks.
+comment_code_cells.py
+nb_cells.txt
+nb_dump_cells.py
+nb_inspect.py
+nb_inspect2.py
+nb_line_numbers.py
+restore_and_patch.py
 
 data/active/
 data/archive/

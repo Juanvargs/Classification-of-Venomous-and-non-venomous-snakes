@@ -13,8 +13,8 @@ uvicorn api_mobile:app --host 0.0.0.0 --port 8000
 
 ## App
 
-`API_URL` en `App.js` quedo configurado con `http://192.168.10.19:8000`.
-Si cambia la red Wi-Fi, reemplaza esa IP por la nueva IP local del computador.
+`API_URL` en `App.js` quedo configurado con `https://donations-decision-specials-integer.trycloudflare.com`.
+Si se reinicia el tunel, reemplaza esa URL por la nueva direccion publica.
 El backend movil usa como modelo activo `B4 EfficientNetV2B1` con politica de decision conservadora.
 
 ```powershell
